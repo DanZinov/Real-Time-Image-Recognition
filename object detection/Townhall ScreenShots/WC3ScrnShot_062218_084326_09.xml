@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Townhall ScreenShots</folder>
+	<filename>WC3ScrnShot_062218_084326_09.jpg</filename>
+	<path>C:\Users\Daniil\Desktop\Townhall ScreenShots\WC3ScrnShot_062218_084326_09.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5333</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Townhall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2872</xmin>
+			<ymin>118</ymin>
+			<xmax>3700</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>
